@@ -1,0 +1,11 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# raw and processed data: downloaded again by run_all.py (and not ours to redistribute)
+data/
+
+# secrets (this project needs none, but never commit them)
+.env
