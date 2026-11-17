@@ -1,0 +1,4 @@
+lead,events,rows,brier_climatology,brier_nwp,brier_nwp_bias,brier_lgbm,skill_nwp,skill_nwp_bias,skill_lgbm,best_other,brier_gain,ci_low,ci_high,brier_classifier_tried
+1,150,4006,0.0339,0.0609,0.0188,0.0168,-0.799,0.443,0.504,Weather model + recent-bias fix,0.00207,0.00048,0.00364,0.0229
+3,149,3998,0.0337,0.0874,0.0281,0.027,-1.594,0.166,0.198,Weather model + recent-bias fix,0.00108,-0.00167,0.00361,0.0313
+5,147,3994,0.0333,0.0961,0.0334,0.03,-1.882,-0.002,0.099,"Climatology (how often, in 1991-2020)",0.0033,-0.00358,0.00888,0.0326

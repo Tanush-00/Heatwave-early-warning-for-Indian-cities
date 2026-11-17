@@ -1,0 +1,16 @@
+city,name,station,normal_years,coverage_since_2021,last_date,kept,reason,heatwave_days,forecast_days
+delhi,Delhi (Palam airport),42181,17,1.0,2026-02-19,True,,32.0,1757.0
+jaipur,Jaipur (Sanganer),42348,15,1.0,2026-02-19,True,,21.0,1757.0
+jodhpur,Jodhpur,42339,16,0.998,2026-02-11,True,,23.0,1757.0
+ganganagar,Sri Ganganagar,42123,5,0.998,2026-02-11,False,only 5 years for the climate normal,,
+lucknow,Lucknow (Amausi),42369,14,1.0,2026-02-19,True,,21.0,1757.0
+varanasi,Varanasi (Babatpur),42479,5,0.998,2026-02-11,False,only 5 years for the climate normal,,
+patna,Patna,42492,25,0.998,2026-02-11,True,,59.0,1757.0
+gwalior,Gwalior,42361,14,0.998,2026-02-11,True,,33.0,1757.0
+jhansi,Jhansi,42463,5,0.998,2026-02-11,False,only 5 years for the climate normal,,
+kota,Kota,42452,16,0.998,2026-02-11,True,,30.0,1757.0
+bhopal,Bhopal (Bairagarh),42667,16,1.0,2026-02-11,True,,6.0,1757.0
+nagpur,Nagpur (Sonegaon),42867,20,1.0,2026-02-19,True,,15.0,1757.0
+akola,Akola,42933,12,0.929,2025-10-07,True,,6.0,1757.0
+chandrapur,Chandrapur,43029,2,1.0,2026-02-11,False,only 2 years for the climate normal,,
+hyderabad,Hyderabad (Airport),43128,23,1.0,2026-02-19,True,,3.0,1757.0

@@ -1,0 +1,13 @@
+lead,method,warnings,hits,misses,false_alarms,POD,FAR,CSI
+1,"Weather model, raw (GFS)",464,133,17,331,0.887,0.713,0.277
+1,Weather model + recent-bias fix,98,83,67,15,0.553,0.153,0.503
+1,"LightGBM, chance >= 50%",115,84,66,31,0.56,0.27,0.464
+1,"LightGBM, chance >= 30% (cautious)",205,119,31,86,0.793,0.42,0.504
+3,"Weather model, raw (GFS)",598,130,19,468,0.872,0.783,0.211
+3,Weather model + recent-bias fix,142,72,77,70,0.483,0.493,0.329
+3,"LightGBM, chance >= 50%",110,57,92,53,0.383,0.482,0.282
+3,"LightGBM, chance >= 30% (cautious)",218,88,61,130,0.591,0.596,0.315
+5,"Weather model, raw (GFS)",608,110,37,498,0.748,0.819,0.171
+5,Weather model + recent-bias fix,145,64,83,81,0.435,0.559,0.281
+5,"LightGBM, chance >= 50%",88,45,102,43,0.306,0.489,0.237
+5,"LightGBM, chance >= 30% (cautious)",201,70,77,131,0.476,0.652,0.252

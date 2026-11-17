@@ -1,0 +1,4 @@
+lead,target,coverage_raw,coverage_calibrated,width_raw,width_calibrated
+1,0.8,0.767,0.81,2.8,3.07
+3,0.8,0.744,0.811,3.43,3.99
+5,0.8,0.734,0.809,3.85,4.56

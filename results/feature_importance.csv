@@ -1,0 +1,15 @@
+feature,share_pct
+bias14,30.7
+bias7,21.0
+f_anom,15.2
+doy_sin,6.4
+doy_cos,4.7
+city_code,4.3
+f,3.2
+revision,2.8
+anom_t,2.7
+tmin_t,2.3
+normal_target,1.9
+tmax_t,1.6
+f_minus_thr,1.6
+tmax_3d,1.6
